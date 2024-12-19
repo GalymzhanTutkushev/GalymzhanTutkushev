@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GalymzhanTutkushev
-- 👀 I’m interested in Python, Math, ComputerScience, DataScience, e-learning projects.
-- 🌱 I’m currently learning modern DataScience techniques.
-- 💞️ I’m looking to collaborate on projects related to DataScience.
+- 👀 I’m interested in LLMs, RAGs, agents.
+- 🌱 I’m currently learning modern NLP techniques.
+- 💞️ I’m looking to collaborate on projects related to LLMs, RAGs and agents.
 - 📫 How to reach me +77051452422 WhatsApp
 
 <!---
